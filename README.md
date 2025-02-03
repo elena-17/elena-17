@@ -7,10 +7,14 @@
 
 ## 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elena-17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=elena-17&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elena-17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  /> -->
+<div style="display: flex;" >
+ <div style="flex: 1;"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=elena-17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" width="400" alt="stats graph" />
+ </div>
+  <div style="flex: 1; display: flex; flex-direction: column; gap: 10px;">
+  <img src="https://streak-stats.demolab.com?user=elena-17&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5" width='400' alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elena-17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=midnight-purple&hide_border=false" width='400' alt="languages graph"  />
+  </div>
 </div>
 
 ## 💻 Tech Stack:
