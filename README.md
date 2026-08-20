@@ -58,7 +58,7 @@ Over the years my work has covered:
 
 - ⚡ **Energy benchmarking** — measuring software consumption across browsers, search engines and video games.
 - 🤖 **AI sustainability** — comparative analysis of energy consumption across multiple **LLMs** and **CNN architectures** using [CodeCarbon](https://codecarbon.io)
-- 🌿 **Neural network training footprint** — my Bachelor's thesis (*GREENN*) is a full-stack tool to measure and visualize CO₂ emissions during model training (awarded 🏆 *Premio Máquina de Turing*)
+- 🌿 **Neural network training footprint** — my Bachelor's thesis (*GREENN*) is a full-stack tool to measure and visualize CO₂ emissions during model training (awarded 🏆 *Premio Máquina de Turing*). [Demo version here](https://github.com/elena-17/Demo-GREENN)
 - 🔁 **ETL pipelines for energy data** — my Master's thesis: an end-to-end data pipeline with Apache Spark, Airflow and Docker to process energy consumption measurements, with interactive dashboards in Streamlit
 
 Take a look at my paper [GREENN: Granular Evaluation of Energy Efficiency in Neural Networks](https://www.computer.org/csdl/proceedings-article/saner-c/2026/858900a165/2ggQr849GHS) from Greenvolve at SANER 2026. Other conferences I've assisted are CIBSE 2025 and SISTEDES 2023.
