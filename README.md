@@ -1,4 +1,4 @@
-## Hi there! My name is Elena and I'm a Computer Science student.
+## Hi there! My name is Elena.
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B59B6&center=true&vCenter=true&random=false&width=500&lines=Data+Engineer;Big+Data+%26+Cloud+Computing;Machine+Learning+%26+AI+Sustainability" alt="Typing SVG" />
